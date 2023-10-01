@@ -1,0 +1,4 @@
+flet
+mipa
+win11toast
+python-dotenv
